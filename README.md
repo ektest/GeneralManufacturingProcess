@@ -1,3 +1,1 @@
-# DependencyInversion
-
-Dependency Inversion (IOC) container
+# General Manufacturing Process
